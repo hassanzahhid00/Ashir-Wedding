@@ -1,0 +1,22 @@
+{
+  "name": "ashir-wedding",
+  "version": "1.0.0",
+  "description": "Wedding invitation website for Ashir Ali",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hassanzahhid00/Ashir-Wedding.git"
+  },
+  "keywords": [
+    "wedding",
+    "invitation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
